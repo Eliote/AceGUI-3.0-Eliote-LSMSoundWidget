@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: AceGUI-3.0-Eliote-LSMSoundWidget
+## Notes: Widget for AceConfig to select LSM Sounds
+## Author: Eliote
+## Version: @project-version@
+## Dependencies: Ace3, LibSharedMedia-3.0
